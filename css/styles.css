@@ -1,0 +1,49 @@
+.header-section{
+	background-color: #0099FF;
+	padding-top: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.name{
+
+}
+.designation{
+	color: black;
+}
+.project-secion{
+	background-color: #0099FF;
+	padding-left: 80px;
+	padding-bottom: 20px;
+	padding-right: 50px;
+	word-break: break-all;
+}
+.skill-section{
+	background: white;
+	padding-left: 80px;
+	padding-right: 50px;
+	padding-bottom: 20px;
+}
+
+.experience-section{
+	background-color: white;
+	padding-left: 50px;
+	padding-right: 50px;
+	word-break: break-all;
+}
+.footer-section{
+	background-color: #0099FF;
+	padding-right: : 50px;
+	padding-left: 50px;
+
+}
+.link{
+	padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: black;
+    transition: all .5s ease-in-out;
+}
+.link:hover{
+	color: white;
+	transform: scale(1.5);
+}
